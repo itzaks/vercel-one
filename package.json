@@ -1,6 +1,7 @@
 {
   "name": "vercel-one",
   "displayName": "Vercel One",
+  "repository": "https://github.com/itzaks/vercel-one",
   "description": "",
   "version": "0.0.1",
   "engines": {
